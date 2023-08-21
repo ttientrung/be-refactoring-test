@@ -1,0 +1,6 @@
+dj-rest-auth
+django
+django-allauth
+django-filter
+djangorestframework
+faker
